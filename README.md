@@ -1,14 +1,14 @@
 Máquina de bater ponto & Painel administrativo
 ========================================
 
-Sistema web que simula uma máquina de bater ponto e um painel administrativo para cadastrar/remover funcionários e recuperar os registros de horário dos mesmos.
+Sistema web que simula uma máquina de bater ponto e um painel administrativo para cadastrar/remover funcionários e recuperar os registros dos horários dos mesmos.
 
 <!-- [![NPM version](https://travis-ci.org/composer/composer.svg?branch=master)](https://travis-ci.org/composer/composer) -->
 
 Pré-requisitos / Tecnologias utilizadas
 ------------
 
-- PHP >= 7.0.0 (versão 7.0.32 Recomendada para evitar potenciais <i>bugs</i>) [ver http://php.net/]
+- PHP >= 7.0.0 (versão 7.0.32 recomendada para evitar potenciais <i>bugs</i>) [ver http://php.net/]
 - Composer (versão 1.0.0-beta2 utilizada) [ver https://getcomposer.org/]
 - SQLite <i>Database</i> [ver https://www.sqlite.org/index.html]
 - Laravel 5.5 [ver https://laravel.com/docs/5.5/installation]
@@ -23,13 +23,13 @@ Pré-requisitos / Tecnologias utilizadas
 Instalação / Inicialização
 --------------------
 
-Clone com o git ou baixe o projeto pelo https://github.com/
+Clone com o git ou baixe o projeto pelo https://github.com/Otooo/ponto
 
 Caso tenha baixado o projeto pelo link, descompacte-o e vá para o passo 2
 
 * <b>Passo 1</b> - Usando o git
 ```
-$ git clone https://github.com/reposit.git ponto/
+$ git clone https://github.com/Otooo/ponto.git
 ```
 * <b>Passo 2</b>
 ```
