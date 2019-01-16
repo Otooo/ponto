@@ -42,7 +42,7 @@ $ php artisan serve
 Arquitetura / Lógica
 --------
 
-O banco de dados contem 3 tabelas: 
+O banco de dados contém 3 tabelas: 
 - ESTADO_PONTO - Contém todos os estados possíveis para o funcionário bater o ponto ('Entrar no trabalho', 'Ir almoçar', 'Voltar do almoço', 'Sair do trabalho', 'Ir lanchar' e 'Voltar do lanche')
 
 - FUNCIONARIO - Contém todos os funcionários registrados no sistema juntamente com uma flag para marcar se o funcionário já almoçou e uma flag para marcar se o funcionário já foi lanchar 
@@ -77,11 +77,11 @@ Uso
 
 - <b>Painel administrativo</b><br>
   
-  O painel administrativo é acessado com o caminho '/admin'. Nela você poderá filtrar e ver os registros dos funcionários, juntamente com suas horas ativas
+  O painel administrativo é acessado com o caminho '/admin'. Nela você poderá filtrar e ver os registros dos funcionários juntamente com suas horas ativas
   <img src="readme/registros.png" alt="Registros funcionários" />
   <img src="readme/grafico.png" alt="Análise de horas" />
 
-  Ainda no administrativo, você pode listar os funcionários, bem como adicionar um novo ou remover um existente
+  Ainda no administrativo você pode listar os funcionários, bem como adicionar um novo ou remover um existente
   <img src="readme/funcionarios.png" alt="Funcionários" />
   <img src="readme/novoF.png" alt="Novo Funcionário" />
 
